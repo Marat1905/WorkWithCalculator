@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\WorkWithCalculator.Common\WorkWithCalculator.Common.csproj" />
     <ProjectReference Include="..\WorkWithCalculator.CustomCalc\WorkWithCalculator.CustomCalc.csproj" />
   </ItemGroup>
 

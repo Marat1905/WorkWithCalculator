@@ -1,14 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WorkWithCalculator.Common\WorkWithCalculator.Common.csproj" />
     <ProjectReference Include="..\WorkWithCalculator.CustomCalc\WorkWithCalculator.CustomCalc.csproj" />
     <ProjectReference Include="..\WorkWithCalculator.CustomLogger\WorkWithCalculator.CustomLogger.csproj" />
   </ItemGroup>
