@@ -5,6 +5,12 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithCalculator.Task1", "WorkWithCalculator.Task1\WorkWithCalculator.Task1.csproj", "{3E5E9B70-8B11-44DB-B9C8-7AF38C57D9ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithCalculator.Task2", "WorkWithCalculator.Task2\WorkWithCalculator.Task2.csproj", "{F381B793-475A-421A-8255-6516F53FC4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithCalculator.CustomLogger", "WorkWithCalculator.CustomLogger\WorkWithCalculator.CustomLogger.csproj", "{0DA57725-B6CB-4125-9951-DB6DC90AEFF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithCalculator.CustomCalc", "WorkWithCalculator.CustomCalc\WorkWithCalculator.CustomCalc.csproj", "{E40EEC93-E44A-4D62-B26C-D30DCB1A22C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{3E5E9B70-8B11-44DB-B9C8-7AF38C57D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E5E9B70-8B11-44DB-B9C8-7AF38C57D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E5E9B70-8B11-44DB-B9C8-7AF38C57D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F381B793-475A-421A-8255-6516F53FC4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F381B793-475A-421A-8255-6516F53FC4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F381B793-475A-421A-8255-6516F53FC4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F381B793-475A-421A-8255-6516F53FC4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA57725-B6CB-4125-9951-DB6DC90AEFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA57725-B6CB-4125-9951-DB6DC90AEFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA57725-B6CB-4125-9951-DB6DC90AEFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA57725-B6CB-4125-9951-DB6DC90AEFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40EEC93-E44A-4D62-B26C-D30DCB1A22C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40EEC93-E44A-4D62-B26C-D30DCB1A22C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40EEC93-E44A-4D62-B26C-D30DCB1A22C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40EEC93-E44A-4D62-B26C-D30DCB1A22C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

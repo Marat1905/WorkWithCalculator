@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WorkWithCalculator.CustomCalc\WorkWithCalculator.CustomCalc.csproj" />
+  </ItemGroup>
+
 </Project>
